@@ -1,4 +1,4 @@
-const data = [
+const datas = [
   {
     id: 1,
     name: "Joy",
@@ -16,4 +16,4 @@ const data = [
   },
 ];
 
-module.exports = data;
+module.exports = datas;
